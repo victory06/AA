@@ -3,7 +3,7 @@ Prácticas de la asignatura Aprendizaje Automático
 
 Ejercicios de Machine Learning relizados en la asignatura AA
 
-*Práctica 0: Introucción a scikit-learn.
+Markup: *Práctica 0: Introucción a scikit-learn.
 *Práctica 1: 
     *Gradiente descendiente
     *Regresión lineal
