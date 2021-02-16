@@ -1,0 +1,11 @@
+\BOOKMARK [1][-]{section.1}{Comprender el problema a resolver. Identificar los elementos X, Y and f del problema.}{}% 1
+\BOOKMARK [1][-]{section.2}{Selecci\363n de las clase/s de funciones a usar. Identificar cu\341les y porqu\351.}{}% 2
+\BOOKMARK [1][-]{section.3}{Fijar conjuntos de training y test que sean coherentes.}{}% 3
+\BOOKMARK [1][-]{section.4}{Preprocesado los datos}{}% 4
+\BOOKMARK [1][-]{section.5}{Fijar la m\351trica de error a usar. Discutir su idoneidad para el problema.}{}% 5
+\BOOKMARK [1][-]{section.6}{Discutir la t\351cnica de ajuste elegida.}{}% 6
+\BOOKMARK [1][-]{section.7}{Discutir la necesidad de regularizaci\363n y en su caso la justificar la funci\363n usada para ello.}{}% 7
+\BOOKMARK [1][-]{section.8}{Identificar los modelos a usar.}{}% 8
+\BOOKMARK [1][-]{section.9}{Estimaci\363n de hiperpar\341metros y selecci\363n del mejor modelo.}{}% 9
+\BOOKMARK [1][-]{section.10}{Estimaci\363n por validaci\363n cruzada del error E out del modelo. Comp\341rela con E test , \277que conclusiones obtiene?}{}% 10
+\BOOKMARK [1][-]{section.11}{Suponga que Ud ha sido encargado de realizar este ajuste para una empresa. \277Qu\351 modelo les propondr\355a y que error E out les dir\355a que tiene?. Justifique las decisiones.}{}% 11
